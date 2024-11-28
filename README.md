@@ -1,1 +1,1 @@
-[sa](b.jpg)
+[b.jpg]
